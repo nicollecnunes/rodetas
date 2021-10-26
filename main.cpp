@@ -1,13 +1,13 @@
 #include "Estrategia.h"
 #include "Transmissao.h"
-#include "Visao.h"
+#include "Embedded.h"
 
 using namespace std;
 
 int main(){
     Estrategia e;
     Transmissao t;
-    Visao v;
+    Embedded v;
 
     // a main fica responsável por enviar a informação entre as duas
     e.setRandomPwms();

@@ -1,18 +1,18 @@
-#ifndef VISAO_H
-#define VISAO_H
+#ifndef EMBEDDED_H
+#define EMBEDDED_H
 
 #include <string>
 #include <cstring>
 
 using namespace std;
 
-class Visao
+class Embedded
 {
     int pwm1, pwm2;
 
     public:
-    Visao(int = 0, int = 0);
-    virtual ~Visao();  
+    Embedded(int = 0, int = 0);
+    virtual ~Embedded();  
 
     int getPwm1() const;
     int getPwm2() const;
