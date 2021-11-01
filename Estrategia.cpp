@@ -1,3 +1,5 @@
+// Autor: Nicolle Canuto Nunes - 2021
+
 #include "Estrategia.h"
 #include <string>
 #include <cstdlib>

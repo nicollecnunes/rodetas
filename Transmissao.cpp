@@ -1,3 +1,5 @@
+// Autor: Nicolle Canuto Nunes - 2021
+
 #include "Transmissao.h"
 #include "Embedded.h"
 #include "Estrategia.h"

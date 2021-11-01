@@ -1,3 +1,5 @@
+// Autor: Nicolle Canuto Nunes - 2021
+
 #ifndef EMBEDDED_H
 #define EMBEDDED_H
 

@@ -1,3 +1,5 @@
+// Autor: Nicolle Canuto Nunes - 2021
+
 #include "Embedded.h"
 
 #include <string>
