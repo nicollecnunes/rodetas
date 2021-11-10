@@ -14,6 +14,8 @@ class Transmissao
     Transmissao(string="[]");
     virtual ~Transmissao();  
 
+    string tratarPwm(int);
+
     string getMensagem();
     void setMensagem(int, int);
 
